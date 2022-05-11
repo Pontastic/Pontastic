@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Pontastic
+- 👋 Hi, I’m Pontus Nordin
 - 👀 I’m interested in soil carbon dynamics.
 - 🌱 I’m currently learning soil carbon dynamics.
 - 💞️ I’m looking to collaborate on soil carbon dynamics.
